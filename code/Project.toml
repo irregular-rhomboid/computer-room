@@ -1,0 +1,7 @@
+[deps]
+CircularArrays = "7a955b69-7140-5f4e-a0ed-f168c5e2e749"
+DitherPunk = "b8f752a5-abd5-43b6-a55b-e75efda20de0"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
